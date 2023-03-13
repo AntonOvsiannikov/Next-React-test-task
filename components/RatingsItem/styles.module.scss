@@ -1,0 +1,9 @@
+@import '/styles/variables.scss';
+
+.rating-list__item {
+  @include font-open-sans;
+
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+}
