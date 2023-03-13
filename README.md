@@ -12,8 +12,8 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-<h1>Search move aplication</h1>
-<p>Create weather report aplication</p>
+<h1>Search move application</h1>
+<p>Create Search move application</p>
 <p>Technology stack:</p>
 <ul>
   <li>Next</li>
